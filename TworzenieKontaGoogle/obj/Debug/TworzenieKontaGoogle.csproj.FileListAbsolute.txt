@@ -1,0 +1,26 @@
+C:\Users\stelm\Documents\SharpDevelop Projects\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\geckodriver.exe
+C:\Users\stelm\Documents\SharpDevelop Projects\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\TworzenieKontaGoogle.dll
+C:\Users\stelm\Documents\SharpDevelop Projects\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\TworzenieKontaGoogle.pdb
+C:\Users\stelm\Documents\SharpDevelop Projects\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\NUnit.Framework.dll
+C:\Users\stelm\Documents\SharpDevelop Projects\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\stelm\Documents\SharpDevelop Projects\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\WebDriver.dll
+C:\Users\stelm\Documents\SharpDevelop Projects\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\WebDriver.Support.dll
+C:\Users\stelm\Documents\SharpDevelop Projects\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\stelm\Documents\SharpDevelop Projects\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\WebDriver.xml
+C:\Users\stelm\Documents\SharpDevelop Projects\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\WebDriver.Support.xml
+C:\Users\stelm\Documents\SharpDevelop Projects\TworzenieKontaGoogle\TworzenieKontaGoogle\obj\Debug\TworzenieKontaGoogle.csprojResolveAssemblyReference.cache
+C:\Users\stelm\Documents\SharpDevelop Projects\TworzenieKontaGoogle\TworzenieKontaGoogle\obj\Debug\TworzenieKontaGoogle.dll
+C:\Users\stelm\Documents\SharpDevelop Projects\TworzenieKontaGoogle\TworzenieKontaGoogle\obj\Debug\TworzenieKontaGoogle.pdb
+E:\TESTY\TworzenieKontaGoogle\TworzenieKontaGoogle\obj\Debug\TworzenieKontaGoogle.csprojResolveAssemblyReference.cache
+E:\TESTY\TworzenieKontaGoogle\TworzenieKontaGoogle\obj\Debug\TworzenieKontaGoogle.dll
+E:\TESTY\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\geckodriver.exe
+E:\TESTY\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\TworzenieKontaGoogle.dll
+E:\TESTY\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\TworzenieKontaGoogle.pdb
+E:\TESTY\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\NUnit.Framework.dll
+E:\TESTY\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+E:\TESTY\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\WebDriver.dll
+E:\TESTY\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\WebDriver.Support.dll
+E:\TESTY\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+E:\TESTY\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\WebDriver.xml
+E:\TESTY\TworzenieKontaGoogle\TworzenieKontaGoogle\bin\Debug\WebDriver.Support.xml
+E:\TESTY\TworzenieKontaGoogle\TworzenieKontaGoogle\obj\Debug\TworzenieKontaGoogle.pdb
